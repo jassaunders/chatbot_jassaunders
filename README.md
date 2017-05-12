@@ -1,5 +1,6 @@
 # chatbot_jassaunders
 a simple chatbot
+clone then also create a "index.html" document and then click on the cloned file to run chatbot in a browser
 
 <html>
 <head>
